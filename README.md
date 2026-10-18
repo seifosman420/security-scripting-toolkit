@@ -3,7 +3,7 @@
 Small, tested scripts for security operations, incident response and threat
 hunting. Each script ships with documented behavior, limitations, synthetic
 test fixtures and automated tests. Companion to
-[detections-as-code](../detection-lab).
+[detections-as-code](https://github.com/seifosman420/detection-lab).
 
 > All test data is synthetic (example.com, fictional users). Nothing here
 > contains real logs. Use scripts only on systems you are authorized to access.
