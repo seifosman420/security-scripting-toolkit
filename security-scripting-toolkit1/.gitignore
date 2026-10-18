@@ -1,6 +1,0 @@
-*.jsonl
-!scripts/**/examples/*.jsonl
-pshistory_*.csv
-*.sha256
-!scripts/**/examples/*.sha256
-.DS_Store
